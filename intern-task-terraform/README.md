@@ -1,6 +1,6 @@
 Built on the `app` branch (PR [#96](https://github.com/atomityhq/devops-challenge/pull/96)) because the instance builds that task's Dockerfile.
 
-Screenshot of the end of the plan output:
+Screenshot of the end of the plan output:  ![terraform plan output](https://github.com/Ananthapad77/devops-challenge/blob/terraform/intern-task-terraform/terraform/terraform-plan-screenshot.png?raw=true)
 
 
 
